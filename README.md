@@ -1,7 +1,6 @@
 # Bit-Torrent-Simulator
 It's a peer to peer file sharing application similar to Bit Torrent
 
-This project was done as a part of the course Computer Networks at University of Florida in Fall '17. 
 
 About the Project
 ------------------
